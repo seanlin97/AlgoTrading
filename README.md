@@ -7,4 +7,4 @@ This document provides a description of a trading strategy implemented through a
 3. Evaluation of data to identify triggers for entry/exit requirements.
 4. Alert notifications through a private Telegram bot for entering/exiting trades and the status of the algorithmic program.
 
-It should be noted that this implementation is not a complete package, but rather a demonstration of its functionality. The remaining structures includes various credentials information and can be obtained from the original developer. Sincere appreciation to g-program-it for his valuable contribution.
+It should be noted that this implementation is not a complete package, but rather a demonstration of its functionality. The remaining structures includes various confidential information and can be obtained from the original developer. Sincere appreciation to g-program-it for his valuable contribution.
